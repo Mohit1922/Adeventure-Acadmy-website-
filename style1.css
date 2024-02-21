@@ -1,0 +1,141 @@
+/* registration css */
+
+.body1{
+    background-color: white;
+}
+
+b{
+    font-size: 25px;
+    margin-left: 120px;
+    /* margin-top: 55px; */
+    position: relative;
+    /* top: 35px; */
+    bottom: 200px;
+}
+
+.orange-text{
+    color: white;
+    position: relative;
+    /* left: px; */
+    left: 15px;
+    font-size: 45px;
+    top: 55px;
+}
+
+.orange-box{
+    background-color: rgb(216, 77, 27);
+    width: 330px;
+    position: relative;
+    left: 737px;
+    height: 250px;
+}
+
+.box-container{
+    border-radius: 25px;
+    background-color: rgb(202, 200, 197);
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    height: 700px; 
+    box-shadow: 5px 5px 10px 10px rgb(179, 172, 172);
+
+}
+
+.inp1{
+    height: 30px;
+    width: 400px;
+    padding: 15px;
+    /* margin: 25px; */
+    margin-left: 120px;
+    /* margin-top: 40px; */
+    position: relative;
+    /* top: 50px; */
+    bottom: 180px;
+    border-radius: 10px;
+    font-size: 20px;
+    /* border-color: rgb(41, 39, 39); */
+}
+
+.input-text-1{
+    position: relative;
+    /* top: 0px; */
+    bottom: 110px;
+    right: 560px;
+}
+
+.inp2{
+    height: 30px;
+    width: 400px;
+    padding: 15px;
+    /* margin: 25px; */
+    margin-left: 120px;
+    /* margin-top: 40px; */
+    position: relative;
+    /* top: 120px; */
+    bottom: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    /* border-color: rgb(41, 39, 39); */
+}
+
+.inp3{
+    height: 30px;
+    width: 400px;
+    padding: 15px;
+    /* margin: 25px; */
+    margin-left: 120px;
+    /* margin-top: 40px; */
+    position: relative;
+    /* top: 190px; */
+    bottom: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    /* border-color: rgb(41, 39, 39); */
+}
+
+.input-text-2{
+    position: relative;
+    /* top: 0px; */
+    bottom: 40px;
+    right: 560px;
+}
+
+.input-text-3{
+    position: relative;
+    top: 30px;
+    right: 560px;
+}
+
+.inp4{
+    height: 30px;
+    width: 400px;
+    padding: 15px;
+    /* margin: 25px; */
+    margin-left: 120px;
+    /* margin-top: 40px; */
+    position: relative;
+    top: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    /* border-color: rgb(41, 39, 39); */
+}
+
+button{
+    position: relative;
+    top: 130px;
+    right: 435px;
+    padding: 15px;
+    height: 60px;
+    width: 305px;
+    font-size: 25px;
+    background-color: rgb(214, 75, 25);
+    border-radius: 10px;
+}
+
+.input-img{
+    height: 350px;
+    position: relative;
+    left: 750px;
+    bottom: 200px;
+    /* border-radius: 10px; */
+}
